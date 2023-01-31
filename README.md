@@ -3,7 +3,7 @@
 1. Jiajie Yang [yang4q]
 
 ## Instructions to Run Our Programs
-1. Run on Google Colab
+1. Run file "a1_main_code.ipynb" on Google Colab with "birkbeck.dat" in '/data'
 
 
 ## Introduction
