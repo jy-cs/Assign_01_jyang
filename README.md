@@ -1,6 +1,6 @@
 # COMP8730 - Assignment 01
-## Group Information - Name [UWinID, StudentNumber]
-1. Jiajie Yang [yang4q, 110115897]
+## Group Information - Name [UWinID]
+1. Jiajie Yang [yang4q]
 
 ## Instructions to Run Our Programs
 1. Run on Google Colab
