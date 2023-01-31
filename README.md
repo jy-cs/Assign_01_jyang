@@ -7,7 +7,7 @@
 
 
 ## Introduction
-This is the A1 project of COMP-8730 W2023 at the University of Windsor. The project is mainly about using minimum edit distance to correct spelling erros.
+This is the A1 project of COMP-8730 W2023 at the University of Windsor. The project is mainly about using minimum edit distance to correct spelling errors.
 
 ## Setup
     * !python --version
